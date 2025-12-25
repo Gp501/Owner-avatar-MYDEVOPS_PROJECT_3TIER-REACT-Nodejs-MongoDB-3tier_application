@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: myuniqueacr289673207.azurecr.io/wanderlust-frontend-beta:v1.0
+          image: myuniqueacr289673207.azurecr.io/wanderlust-frontend-beta:V1.1
           ports:
             - containerPort: 5173
 ---

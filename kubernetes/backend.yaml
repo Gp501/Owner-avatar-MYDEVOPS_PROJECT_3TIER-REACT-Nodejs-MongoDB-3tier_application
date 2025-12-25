@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: myuniqueacr289673207.azurecr.io/wanderlust-backend-beta:v1.0
+          image: myuniqueacr289673207.azurecr.io/wanderlust-backend-beta:V1.1
           ports:
             - containerPort: 8080
 ---
